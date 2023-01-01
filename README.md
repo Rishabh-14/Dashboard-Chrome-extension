@@ -1,5 +1,3 @@
-# cdQDW2Uk
-
 Quick start:
 
 ```
